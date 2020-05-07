@@ -1,0 +1,33 @@
+#marco1990 {
+    width: 920px;
+    height: 57px;
+    background-color: #41cef8;
+    margin: 20px auto;
+    padding: 10px;
+    line-height: 57px;}
+
+    fieldset{
+        width: 200px;
+        height: 50px;
+        margin: 0px auto;
+      padding: 20px;
+    border-radius: 25px;
+
+    }
+   fieldset p{
+       text-align: center;
+       padding: 0px;
+       margin: 0px;
+
+    }
+    legend{
+        padding: 10px;
+        background-color: black;
+        color: white;
+        border-radius: 25px;
+    }
+    .poner {
+        padding: 2px;
+        border:2px solid white;
+        background-color: white;
+    }
